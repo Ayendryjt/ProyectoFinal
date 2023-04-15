@@ -1,6 +1,6 @@
 
 
-# Concurencia
+# Concurenciaa
 # La concurrencia en informática se refiere a la capacidad de un sistema para manejar múltiples tareas o procesos al mismo tiempo, de manera aparentemente simultánea, aunque no necesariamente en ejecución paralela real. La concurrencia permite que varias tareas se ejecuten en solapamiento temporal, lo que significa que pueden progresar en su ejecución de forma interleada, sin necesidad de esperar a que una tarea termine para que otra comience.
 
 # El paralelismo y la concurrencia 
